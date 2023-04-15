@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(223, 181, 126);
+    
+
+}
+
+
+
+header{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    height: 6.25rem;
+    padding: 0.625rem;
+    margin-bottom: 10px;
+    background-color: rgb(223, 181, 126); 
+    background-size: cover;
+    font-size: xx-large;
+    margin-top: 2rem;
+    margin-left: 1.25rem;
+    top: 30%;
+    
+}
+section{
+
+}
+aside{
+    
+    
+    
+}
+.caja1{
+    background-color: aqua;
+    font-size: larger;
+    margin: 50px;
+    width: 400px;
+    height: 350px;
+    background: white;
+    position: relative;
+    top: 150px;
+    float: left;
+
+}
+.caja2{
+    margin: 50px;
+    width: 400px;
+    height: 350px;
+    background: white;
+    position: relative;
+    top: 150px;
+    float: right;
+    margin-right: 250px;
+    text-align: center;
+    
+    
+}
+.caja2 ul{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+article{}
